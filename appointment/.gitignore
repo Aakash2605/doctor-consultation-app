@@ -35,3 +35,5 @@ build/
 # SQLite Database
 *.db
 *.sqlite
+
+*.db
